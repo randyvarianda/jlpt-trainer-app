@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/jlpt-trainer",
+  basePath: "/jlpt-trainer-app",
   images: {
     unoptimized: true,
   },
